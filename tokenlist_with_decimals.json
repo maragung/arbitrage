@@ -1,0 +1,90 @@
+{
+  "USDT": {
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "decimals": 6
+  },
+  "USDC": {
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "decimals": 6
+  },
+  "BTC.b": {
+    "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "decimals": 8
+  },
+  "sAVAX": {
+    "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+    "decimals": 18
+  },
+  "WAVAX": {
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "decimals": 18
+  },
+  "WETH.e": {
+    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "decimals": 18
+  },
+  "USDC.e": {
+    "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+    "decimals": 6
+  },
+  "WBTC.e": {
+    "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+    "decimals": 8
+  },
+  "stAVAX": {
+    "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
+    "decimals": 18
+  },
+  "JOE": {
+    "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "decimals": 18
+  },
+  "USDT.e": {
+    "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+    "decimals": 6
+  },
+  "WXT": {
+    "address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
+    "decimals": 18
+  },
+  "QI": {
+    "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+    "decimals": 18
+  },
+  "PNG": {
+    "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+    "decimals": 18
+  },
+  "XAVA": {
+    "address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+    "decimals": 18
+  },
+  "ARENA": {
+    "address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+    "decimals": 18
+  },
+  "GUNZ": {
+    "address": "0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB",
+    "decimals": 18
+  },
+  "COQ": {
+    "address": "0x420FcA0121DC28039145009570975747295f2329",
+    "decimals": 18
+  },
+  "ALOT": {
+    "address": "0x093783055F9047C2BfF99c4e414501F8A147bC69",
+    "decimals": 18
+  },
+  "BLACK": {
+    "address": "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6",
+    "decimals": 18
+  },
+  "LINK.e": {
+    "address": "0x5947BB275c521040051D82396192181b413227A3",
+    "decimals": 18
+  },
+  "XAUT0": {
+    "address": "0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32",
+    "decimals": 6
+  }
+}
